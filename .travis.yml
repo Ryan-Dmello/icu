@@ -1,3 +1,5 @@
+arch:
+  - ppc64le
 matrix:
   include:
 
